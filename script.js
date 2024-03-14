@@ -5,7 +5,7 @@ let fontSize = 2
 
 let messages = [
   'Estas segura???',
-  'NO',
+  'Si me bañe;(',
   'Andale',
   'Shi',
   'Ahi esta el otro boton jaja'
